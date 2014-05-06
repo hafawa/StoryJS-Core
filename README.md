@@ -3,6 +3,8 @@ StoryJS-Core
 
 **The StoryJS-Core repository is deprecated. The code has been directly added to the https://github.com/NUKnightLab/TimelineJS repository. No further changes will be made to this repository.**
 
+**Pull requests for language translations are still welcome. Please make them against the TimelineJS repository.**
+
 ---
 
 Core javascript functionality for StoryJS (including TimelineJS)
