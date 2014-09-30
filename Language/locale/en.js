@@ -2,9 +2,9 @@
 ================================================== */
 if(typeof VMM != 'undefined') {
 	VMM.Language = {
-		lang: "en",
+		lang: "ar",
 		api: {
-			wikipedia: "en"
+			wikipedia: "ar"
 		},
 		date: {
 			month: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
